@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://cf4476morjucy"]
+
+[ext_resource type="Texture2D" uid="uid://itdn2j06d5a4" path="res://assets/Sora.png" id="1_8alah"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_orojm"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_8alah")
+}],
+"loop": false,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="player" type="Area2D"]
+metadata/_edit_group_ = true
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_orojm")
