@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://itdn2j06d5a4"
-path="res://.godot/imported/Sora.png-189d029a30ad7467c18a7d09a88bbe92.ctex"
+uid="uid://bfse04x5c3yhn"
+path="res://.godot/imported/Mobile - Final Fantasy Record Keeper - Black Mage.png-1364077c6c7fecb04f54374a30397b8c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sora.png"
-dest_files=["res://.godot/imported/Sora.png-189d029a30ad7467c18a7d09a88bbe92.ctex"]
+source_file="res://assets/player/Mobile - Final Fantasy Record Keeper - Black Mage.png"
+dest_files=["res://.godot/imported/Mobile - Final Fantasy Record Keeper - Black Mage.png-1364077c6c7fecb04f54374a30397b8c.ctex"]
 
 [params]
 

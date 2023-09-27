@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dib8ar247u0dp"
-path="res://.godot/imported/cavesofgallet.png-6a04a4769ba417c817a4228db2c126ff.ctex"
+uid="uid://d0o0klmb432yb"
+path="res://.godot/imported/Vexen.png-5a4092c31a447ec3ec4c2c2972c57285.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cavesofgallet.png"
-dest_files=["res://.godot/imported/cavesofgallet.png-6a04a4769ba417c817a4228db2c126ff.ctex"]
+source_file="res://assets/player/Vexen.png"
+dest_files=["res://.godot/imported/Vexen.png-5a4092c31a447ec3ec4c2c2972c57285.ctex"]
 
 [params]
 
