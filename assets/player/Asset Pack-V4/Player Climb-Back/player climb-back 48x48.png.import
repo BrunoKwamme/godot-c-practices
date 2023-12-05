@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://itdn2j06d5a4"
-path="res://.godot/imported/Sora.png-721c12e34fdeaf01cc336913fb8917e5.ctex"
+uid="uid://b8g46nrar5ngf"
+path="res://.godot/imported/player climb-back 48x48.png-6694e926454b25b1476ec89259d216cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/Sora.png"
-dest_files=["res://.godot/imported/Sora.png-721c12e34fdeaf01cc336913fb8917e5.ctex"]
+source_file="res://assets/player/Asset Pack-V4/Player Climb-Back/player climb-back 48x48.png"
+dest_files=["res://.godot/imported/player climb-back 48x48.png-6694e926454b25b1476ec89259d216cc.ctex"]
 
 [params]
 

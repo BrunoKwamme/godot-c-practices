@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d0o0klmb432yb"
-path="res://.godot/imported/Vexen.png-5a4092c31a447ec3ec4c2c2972c57285.ctex"
+uid="uid://bnyyjwyin64kg"
+path="res://.godot/imported/Player Hurt 48x48.png-132f5ead7e07782ea4c0273dc6891e6c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/Vexen.png"
-dest_files=["res://.godot/imported/Vexen.png-5a4092c31a447ec3ec4c2c2972c57285.ctex"]
+source_file="res://assets/player/Asset Packs 1-3 (final)/Asset Pack-V3/Player Hurt-Damaged/Player Hurt 48x48.png"
+dest_files=["res://.godot/imported/Player Hurt 48x48.png-132f5ead7e07782ea4c0273dc6891e6c.ctex"]
 
 [params]
 

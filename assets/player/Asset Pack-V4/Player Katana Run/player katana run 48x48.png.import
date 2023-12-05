@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bfse04x5c3yhn"
-path="res://.godot/imported/Mobile - Final Fantasy Record Keeper - Black Mage.png-1364077c6c7fecb04f54374a30397b8c.ctex"
+uid="uid://7v324h3hwab3"
+path="res://.godot/imported/player katana run 48x48.png-f405e435118cac1299441e036881adac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/Mobile - Final Fantasy Record Keeper - Black Mage.png"
-dest_files=["res://.godot/imported/Mobile - Final Fantasy Record Keeper - Black Mage.png-1364077c6c7fecb04f54374a30397b8c.ctex"]
+source_file="res://assets/player/Asset Pack-V4/Player Katana Run/player katana run 48x48.png"
+dest_files=["res://.godot/imported/player katana run 48x48.png-f405e435118cac1299441e036881adac.ctex"]
 
 [params]
 
