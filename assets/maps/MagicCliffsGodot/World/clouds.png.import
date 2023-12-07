@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dib8ar247u0dp"
-path="res://.godot/imported/cavesofgallet.png-046fc3378e20040e84bd0ce29b6e2a1f.ctex"
+uid="uid://bubiokecv02fh"
+path="res://.godot/imported/clouds.png-cd4b0e01cfe3f5cab13554335cd212ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/maps/cavesofgallet.png"
-dest_files=["res://.godot/imported/cavesofgallet.png-046fc3378e20040e84bd0ce29b6e2a1f.ctex"]
+source_file="res://World/clouds.png"
+dest_files=["res://.godot/imported/clouds.png-cd4b0e01cfe3f5cab13554335cd212ab.ctex"]
 
 [params]
 

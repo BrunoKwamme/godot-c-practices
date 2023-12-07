@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c56whjr710qbg"
-path="res://.godot/imported/cavesofgallet_tiles.png-051bb26509e56e1c0c8064aebefe1cdc.ctex"
+uid="uid://by2tnnopj34gp"
+path="res://.godot/imported/fall.png-461dc44beb0ce01c37928b1680ff9265.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/maps/cavesofgallet_tiles.png"
-dest_files=["res://.godot/imported/cavesofgallet_tiles.png-051bb26509e56e1c0c8064aebefe1cdc.ctex"]
+source_file="res://Player/spritesheets/fall.png"
+dest_files=["res://.godot/imported/fall.png-461dc44beb0ce01c37928b1680ff9265.ctex"]
 
 [params]
 

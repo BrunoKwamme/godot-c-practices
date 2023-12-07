@@ -1,0 +1,30 @@
+[gd_scene load_steps=5 format=3 uid="uid://1wrunb23o1vm"]
+
+[ext_resource type="PackedScene" uid="uid://cf4476morjucy" path="res://player.tscn" id="1_x0wkc"]
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_wfcqt"]
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_cb1a2"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_wwdpi"]
+size = Vector2(812, 20)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+material = SubResource("CanvasItemMaterial_wfcqt")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+modulate = Color(0.0705882, 0.0705882, 0.0705882, 1)
+self_modulate = Color(0.0352941, 0.0352941, 0.0352941, 1)
+material = SubResource("CanvasItemMaterial_cb1a2")
+use_parent_material = true
+position = Vector2(421, 600)
+shape = SubResource("RectangleShape2D_wwdpi")
+debug_color = Color(0.32549, 0.509804, 0.945098, 1)
+
+[node name="CanvasLayer" type="CanvasLayer" parent="StaticBody2D"]
+
+[node name="Player" parent="." instance=ExtResource("1_x0wkc")]
+position = Vector2(148, 308)
+disable_mode = 1
