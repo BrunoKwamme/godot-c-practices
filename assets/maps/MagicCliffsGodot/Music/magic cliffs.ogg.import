@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bi6ji1svotjvd"
-path="res://.godot/imported/magic cliffs.ogg-6b1c86d47a5055d33447493ff923a566.oggvorbisstr"
+path="res://.godot/imported/magic cliffs.ogg-35def1e42c73090af8d1f61d7d7d43da.oggvorbisstr"
 
 [deps]
 
-source_file="res://Music/magic cliffs.ogg"
-dest_files=["res://.godot/imported/magic cliffs.ogg-6b1c86d47a5055d33447493ff923a566.oggvorbisstr"]
+source_file="res://assets/maps/MagicCliffsGodot/Music/magic cliffs.ogg"
+dest_files=["res://.godot/imported/magic cliffs.ogg-35def1e42c73090af8d1f61d7d7d43da.oggvorbisstr"]
 
 [params]
 

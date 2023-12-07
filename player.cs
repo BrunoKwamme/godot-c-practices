@@ -62,6 +62,13 @@ public partial class player : Area2D
 			animatedSprite2D.FlipH = true;
 		}
 	}
+	private void _on_body_entered(Node2D body)
+{
+	// Replace with function body.
+}
 		
 }
+
+
+
 

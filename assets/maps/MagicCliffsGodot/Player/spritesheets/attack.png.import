@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0mebyg6cvb56"
-path="res://.godot/imported/attack.png-36053c3c55c44504e452b6d30700a814.ctex"
+path="res://.godot/imported/attack.png-9452eb78689aa614c2900cf6d57e57cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Player/spritesheets/attack.png"
-dest_files=["res://.godot/imported/attack.png-36053c3c55c44504e452b6d30700a814.ctex"]
+source_file="res://assets/maps/MagicCliffsGodot/Player/spritesheets/attack.png"
+dest_files=["res://.godot/imported/attack.png-9452eb78689aa614c2900cf6d57e57cb.ctex"]
 
 [params]
 

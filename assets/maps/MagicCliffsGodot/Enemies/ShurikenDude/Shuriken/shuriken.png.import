@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpv17q60anljg"
-path="res://.godot/imported/shuriken.png-396eb02809504321bb25fb592abaacf6.ctex"
+path="res://.godot/imported/shuriken.png-26ccf63b195b5ffebd6c01245ff5b5cd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Enemies/ShurikenDude/Shuriken/shuriken.png"
-dest_files=["res://.godot/imported/shuriken.png-396eb02809504321bb25fb592abaacf6.ctex"]
+source_file="res://assets/maps/MagicCliffsGodot/Enemies/ShurikenDude/Shuriken/shuriken.png"
+dest_files=["res://.godot/imported/shuriken.png-26ccf63b195b5ffebd6c01245ff5b5cd.ctex"]
 
 [params]
 

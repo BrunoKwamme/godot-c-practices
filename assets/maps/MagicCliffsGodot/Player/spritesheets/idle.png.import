@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs0q3yw83mb6p"
-path="res://.godot/imported/idle.png-e4f1baeabf54ae74123dfd873cfcc19a.ctex"
+path="res://.godot/imported/idle.png-e4414bc22f5adfe6e2709a516807a630.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Player/spritesheets/idle.png"
-dest_files=["res://.godot/imported/idle.png-e4f1baeabf54ae74123dfd873cfcc19a.ctex"]
+source_file="res://assets/maps/MagicCliffsGodot/Player/spritesheets/idle.png"
+dest_files=["res://.godot/imported/idle.png-e4414bc22f5adfe6e2709a516807a630.ctex"]
 
 [params]
 
